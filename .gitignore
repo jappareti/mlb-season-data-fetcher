@@ -1,0 +1,6 @@
+# Exclude downloaded data files from git repo
+*.json
+*.csv
+.DS_Store
+
+.ipynb_checkpoints
